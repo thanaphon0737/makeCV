@@ -103,3 +103,10 @@ a:hover {
     width: 70%;
     margin: 100px auto 100px auto;
 }
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:  10px;
+    width: 4%;
+}
